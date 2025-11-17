@@ -1,3 +1,8 @@
+#ok basically this is all null and void because X API free tier is terrible and
+#next time i should check which endpoints are allowed on the free tier.
+
+
+
 import requests
 import os
 import json
