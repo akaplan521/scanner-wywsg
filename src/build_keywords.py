@@ -35,7 +35,8 @@ def build(df):                                      #building final df to save
 def save(df, filepath=KEYWORDS_FILE):   
     df.to_csv(filepath, index=False)        #save locally first
 
-    #util.upload_file(filepath, bucket='nba-sentiment-data', key='keywords/keywords.csv', region="us-east-2") 
+    util.upload_file(filepath, bucket='nba-sentiment-data', key='keywords/keywords.csv') 
+    print("Cloud upload complete")
     #uploading to aws bucket
 
 

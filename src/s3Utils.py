@@ -2,7 +2,7 @@ import boto3
 
 #creating s3 client
 def get_s3_client(region="us-east-2"):
-    return boto3.client("s3", regionName=region)
+    return boto3.client("s3", region_name=region)
 
 #uploading files to bucket
 def upload_file(filename, bucket, key, region="us-east-2"):
