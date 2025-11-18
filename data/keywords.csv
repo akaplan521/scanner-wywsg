@@ -1,16 +1,141 @@
-type,keyword
-player,Jayson Tatum
-player,Jaylen Brown
-player,Chris Boucher
-player,Luka Garza
-player,Payton Pritchard
-player,Sam Hauser
-player,Hugo Gonzalez
-player,Josh Minott
-player,Neemias Queta
-player,Jordan Walsh
-player,Derrick White
-player,Xavier Tillman
-player,Baylor Scheierman
-player,Anfernee Simons
-team,Boston Celtics
+ticker,keyword,category,source
+AAON,AAON Inc. Common Stock,company,nasdaq
+ACHR,Archer Aviation Inc. Class A Common Stock,company,nasdaq
+AGCO,AGCO Corporation Common Stock,company,nasdaq
+AIR,AAR Corp. Common Stock,company,nasdaq
+AIRI,Air Industries Group Common Stock,company,nasdaq
+AIRJ,AirJoule Technologies Corporation Class A Common Stock,company,nasdaq
+AIRJW,AirJoule Technologies Corporation Warrant,company,nasdaq
+AIRO,AIRO Group Holdings Inc. Common Stock,company,nasdaq
+ALG,Alamo Group Inc. Common Stock,company,nasdaq
+ALTG,Alta Equipment Group Inc. Class A Common Stock,company,nasdaq
+AME,AMETEK Inc.,company,nasdaq
+ARTW,Art's-Way Manufacturing Co. Inc. Common Stock,company,nasdaq
+ATRO,Astronics Corporation Common Stock,company,nasdaq
+AVAV,AeroVironment Inc. Common Stock,company,nasdaq
+AXON,Axon Enterprise Inc. Common Stock,company,nasdaq
+BA,Boeing Company (The) Common Stock,company,nasdaq
+BC,Brunswick Corporation Common Stock,company,nasdaq
+BMI,Badger Meter Inc. Common Stock,company,nasdaq
+BNC,CEA Industries Inc. Common Stock,company,nasdaq
+BWXT,BWX Technologies Inc. Common Stock,company,nasdaq
+CARR,Carrier Global Corporation Common Stock ,company,nasdaq
+CGNX,Cognex Corporation Common Stock,company,nasdaq
+CLIR,ClearSign Technologies Corporation Common Stock (DE),company,nasdaq
+CMI,Cummins Inc. Common Stock,company,nasdaq
+CODA,Coda Octopus Group Inc. Common stock,company,nasdaq
+CUB,Lionheart Holdings Class A Ordinary Shares,company,nasdaq
+CVR,Chicago Rivet & Machine Co. Common Stock,company,nasdaq
+CVU,CPI Aerostructures Inc. Common Stock,company,nasdaq
+DCO,Ducommun Incorporated Common Stock,company,nasdaq
+DE,Deere & Company Common Stock,company,nasdaq
+DHR,Danaher Corporation Common Stock,company,nasdaq
+DOV,Dover Corporation Common Stock,company,nasdaq
+DXPE,DXP Enterprises Inc. Common Stock,company,nasdaq
+EKSO,Ekso Bionics Holdings Inc. Common Stock,company,nasdaq
+ELSE,Electro-Sensors Inc. Common Stock,company,nasdaq
+EME,EMCOR Group Inc. Common Stock,company,nasdaq
+ESAB,ESAB Corporation Common Stock,company,nasdaq
+FCUV,Focus Universal Inc. Common Stock,company,nasdaq
+FIX,Comfort Systems USA Inc. Common Stock,company,nasdaq
+FLR,Fluor Corporation Common Stock,company,nasdaq
+FLY,Firefly Aerospace Inc. Common Stock,company,nasdaq
+FLYE,Fly-E Group Inc. Common Stock,company,nasdaq
+FTV,Fortive Corporation Common Stock ,company,nasdaq
+GEOS,Geospace Technologies Corporation Common Stock (Texas),company,nasdaq
+GHM,Graham Corporation Common Stock,company,nasdaq
+GIC,Global Industrial Company Common Stock,company,nasdaq
+GLDD,Great Lakes Dredge & Dock Corporation Common Stock,company,nasdaq
+GVA,Granite Construction Incorporated Common Stock,company,nasdaq
+HAYW,Hayward Holdings Inc. Common Stock,company,nasdaq
+HEI,Heico Corporation Common Stock,company,nasdaq
+HON,Honeywell International Inc. Common Stock,company,nasdaq
+HOVR,New Horizon Aircraft Ltd. Class A Ordinary Share,company,nasdaq
+HOVRW,New Horizon Aircraft Ltd. Warrant,company,nasdaq
+HURC,Hurco Companies Inc. Common Stock,company,nasdaq
+IESC,IES Holdings Inc. Common Stock,company,nasdaq
+IR,Ingersoll Rand Inc. Common Stock,company,nasdaq
+ITW,Illinois Tool Works Inc. Common Stock,company,nasdaq
+J,Jacobs Solutions Inc. Common Stock,company,nasdaq
+JBTM,JBT Marel Corporation Common Stock,company,nasdaq
+JOBY,Joby Aviation Inc. Common Stock,company,nasdaq
+KAI,Kadant Inc Common Stock,company,nasdaq
+KBR,KBR Inc. Common Stock,company,nasdaq
+KEYS,Keysight Technologies Inc. Common Stock,company,nasdaq
+KITT,Nauticus Robotics Inc. Common stock,company,nasdaq
+KITTW,Nauticus Robotics Inc. Warrant,company,nasdaq
+KMT,Kennametal Inc. Common Stock,company,nasdaq
+KRMN,Karman Holdings Inc. Common Stock,company,nasdaq
+KTOS,Kratos Defense & Security Solutions Inc. Common Stock,company,nasdaq
+LECO,Lincoln Electric Holdings Inc. Common Shares,company,nasdaq
+LHX,L3Harris Technologies Inc. Common Stock,company,nasdaq
+LII,Lennox International Inc. Common Stock,company,nasdaq
+LMT,Lockheed Martin Corporation Common Stock,company,nasdaq
+LNN,Lindsay Corporation Common Stock,company,nasdaq
+LOAR,Loar Holdings Inc. Common Stock,company,nasdaq
+LUNR,Intuitive Machines Inc. Class A Common Stock,company,nasdaq
+MASS,908 Devices Inc. Common Stock,company,nasdaq
+MIDD,Middleby Corporation (The) Common Stock,company,nasdaq
+MIND,MIND Technology Inc. Common Stock (DE),company,nasdaq
+MIR,Mirion Technologies Inc. Class A Common Stock,company,nasdaq
+MKSI,MKS Inc. Common Stock,company,nasdaq
+MLAB,Mesa Laboratories Inc. Common Stock,company,nasdaq
+MNTS,Momentus Inc. Class A Common Stock,company,nasdaq
+MNTSW,Momentus Inc. Warrant,company,nasdaq
+MSM,MSC Industrial Direct Company Inc. Common Stock,company,nasdaq
+NDSN,Nordson Corporation Common Stock,company,nasdaq
+NN,NextNav Inc. Common Stock,company,nasdaq
+NNAVW,NextNav Inc. Warrant,company,nasdaq
+NNBR,NN Inc. Common Stock,company,nasdaq
+NOC,Northrop Grumman Corporation Common Stock,company,nasdaq
+NPK,National Presto Industries Inc. Common Stock,company,nasdaq
+NXT,Nextpower Inc. Class A Common Stock,company,nasdaq
+OC,Owens Corning Inc Common Stock New,company,nasdaq
+ONTO,Onto Innovation Inc. Common Stock,company,nasdaq
+ORN,Orion Group Holdings Inc. Common,company,nasdaq
+OUST,Ouster Inc. Common Stock,company,nasdaq
+OUSTZ,Ouster Inc. Warrants,company,nasdaq
+OWLT,Owlet Inc. Class A Common Stock,company,nasdaq
+PKE,Park Aerospace Corp. Common Stock,company,nasdaq
+POWW,Outdoor Holding Company Common Stock,company,nasdaq
+POWWP,Outdoor Holding Company 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock,company,nasdaq
+PSIX,Power Solutions International Inc. Common Stock,company,nasdaq
+PWR,Quanta Services Inc. Common Stock,company,nasdaq
+QSI,Quantum-Si Incorporated Class A Common Stock,company,nasdaq
+QSIAW,Quantum-Si Incorporated Warrant,company,nasdaq
+RAL,Ralliant Corporation Common Stock,company,nasdaq
+RDW,Redwire Corporation Common Stock,company,nasdaq
+RGR,Sturm Ruger & Company Inc. Common Stock,company,nasdaq
+RKLB,Rocket Lab Corporation Common Stock,company,nasdaq
+ROAD,Construction Partners Inc. Class A Common Stock,company,nasdaq
+ROK,Rockwell Automation Inc. Common Stock,company,nasdaq
+RR,Richtech Robotics Inc. Class B Common Stock,company,nasdaq
+RTX,RTX Corporation Common Stock,company,nasdaq
+SARO,StandardAero Inc. Common Stock,company,nasdaq
+SENS,Senseonics Holdings Inc. Common Stock,company,nasdaq
+SHIM,Shimmick Corporation Common Stock,company,nasdaq
+SIF,SIFCO Industries Inc. Common Stock,company,nasdaq
+SLND,Southland Holdings Inc. Common Stock,company,nasdaq
+SOLS,Solstice Advanced Materials Inc. Common Stock ,company,nasdaq
+SPR,Spirit Aerosystems Holdings Inc. Common Stock,company,nasdaq
+SPXC,SPX Technologies Inc. Common Stock,company,nasdaq
+STRL,Sterling Infrastructure Inc. Common Stock,company,nasdaq
+SWBI,Smith & Wesson Brands Inc. Common Stock,company,nasdaq
+SXI,Standex International Corporation Common Stock,company,nasdaq
+SYM,Symbotic Inc. Class A Common Stock,company,nasdaq
+SYPR,Sypris Solutions Inc. Common Stock,company,nasdaq
+TAYD,Taylor Devices Inc. Common Stock,company,nasdaq
+TDG,Transdigm Group Incorporated Common Stock,company,nasdaq
+TDY,Teledyne Technologies Incorporated Common Stock,company,nasdaq
+TGEN,Tecogen Inc. Common Stock,company,nasdaq
+TMO,Thermo Fisher Scientific Inc Common Stock,company,nasdaq
+TNC,Tennant Company Common Stock,company,nasdaq
+TRMB,Trimble Inc. Common Stock,company,nasdaq
+TWIN,Twin Disc Incorporated Common Stock,company,nasdaq
+TXT,Textron Inc. Common Stock,company,nasdaq
+UAVS,AgEagle Aerial Systems Inc. Common Stock,company,nasdaq
+VNT,Vontier Corporation Common Stock ,company,nasdaq
+VOYG,Voyager Technologies Inc. Class A Common Stock,company,nasdaq
+WRAP,Wrap Technologies Inc. Common Stock,company,nasdaq
+ZBRA,Zebra Technologies Corporation Class A Common Stock,company,nasdaq
+ZWS,Zurn Elkay Water Solutions Corporation Common Stock,company,nasdaq
